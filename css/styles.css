@@ -1,0 +1,24 @@
+.nav-link:hover{
+    color: oklch(42.4% 0.199 265.638);
+    list-style: none;
+    text-decoration: underline;
+}
+.hero{
+    background: linear-gradient(rgba(15, 23, 42, 0.75), rgba(15, 23, 42, 0.75)),
+    url('https://images.unsplash.com/photo-1721333084552-6ad59d9e92da');
+    background-position: center;
+    background-size: cover;
+    display: flex;
+}
+span{
+    color: oklch(48.8% 0.243 264.376);
+}
+b{
+    border-radius: 999px;
+    background: oklch(42.4% 0.199 265.638);
+    width: 2.5rem;
+    height: 2.5rem;
+    padding: auto;
+    margin: 1.2rem 1rem;
+    place-items: center;
+}
