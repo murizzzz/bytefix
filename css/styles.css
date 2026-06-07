@@ -9,6 +9,7 @@
     background-position: center;
     background-size: cover;
     display: flex;
+    min-height: 80vh;
 }
 span{
     color: oklch(48.8% 0.243 264.376);
@@ -21,4 +22,14 @@ b{
     padding: auto;
     margin: 1.2rem 1rem;
     place-items: center;
+}
+.card{
+    border: 1px solid #e2e8f0;
+    border-radius: 16px;
+    box-shadow: 0 1px 2px rgba(15, 23, 42, 0.04);
+}
+.icon{
+    color: oklch(42.4% 0.199 265.638);
+    margin: auto;
+    place-items: center
 }
