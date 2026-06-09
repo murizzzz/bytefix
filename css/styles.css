@@ -1,7 +1,7 @@
 .nav-link:hover{
     color: oklch(42.4% 0.199 265.638);
     list-style: none;
-    text-decoration: underline;
+    text-decoration: none;
 }
 .hero{
     background: linear-gradient(rgba(15, 23, 42, 0.75), rgba(15, 23, 42, 0.75)),
